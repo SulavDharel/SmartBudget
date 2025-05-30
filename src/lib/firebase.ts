@@ -3,7 +3,7 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDeYndJKvQMQGb6FR6QsQk2a6HSxIa4KXE",
+  apiKey: "yourkey",
   authDomain: "pft-smartbudget.firebaseapp.com",
   projectId: "pft-smartbudget",
   storageBucket: "pft-smartbudget.firebasestorage.app",
